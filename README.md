@@ -1,3 +1,3 @@
 # star_walker
 
-streamlit run App.py
+python -m streamlit run App.py
